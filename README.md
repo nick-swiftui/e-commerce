@@ -23,5 +23,4 @@ This is a simple E-Commerce app built using **SwiftUI**. The app provides a slee
 
 # Future Improvements
 
-* Add user authentication for personalized experiences.
 * Implement a payment gateway for real transactions.
